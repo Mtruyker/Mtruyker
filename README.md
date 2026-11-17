@@ -65,6 +65,8 @@ Junior C#/.NET-разработчик с сильной теоретическо
 
 ### 🤝 Связаться со мной
 
+[![Telegram](https://img.shields.io/badge/Telegram-%40vtruyk-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vtruyk)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Mtruyker-181717?style=for-the-badge&logo=github)](https://github.com/Mtruyker)
 
 Открыт к новым проектам и предложениям о работе.
