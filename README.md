@@ -53,8 +53,9 @@ Junior C#/.NET-разработчик с сильной теоретическо
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mtruyker&show_icons=true&theme=transparent&hide_border=true)](https://github.com/Mtruyker)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mtruyker&layout=compact&theme=transparent&hide_border=true)](https://github.com/Mtruyker?tab=repositories)
+[![GitHub Overview](assets/github-stats.svg)](https://github.com/Mtruyker?tab=repositories)
+
+[Репозитории](https://github.com/Mtruyker?tab=repositories) · [Активность и вклад](https://github.com/Mtruyker#js-contribution-activity)
 
 </div>
 
